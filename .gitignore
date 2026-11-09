@@ -1,0 +1,45 @@
+# Local IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+
+# Local environment values; commit templates for other developers
+.env
+.env.*
+!.env.example
+
+# Node / Expo dependencies, caches and generated output
+node_modules/
+.expo/
+.expo-shared/
+.npm/
+.eslintcache
+*.tsbuildinfo
+coverage/
+dist/
+/mobile/android/
+/mobile/ios/
+
+# Java / Gradle build output and machine-specific SDK paths
+target/
+.gradle/
+local.properties
+
+# Logs and mobile build/signing artifacts
+*.log
+*.apk
+*.aab
+*.ipa
+*.jks
+*.keystore
+*.p12
+*.p8
+*.mobileprovision
+
+# Keep package-lock.json, .nvmrc, Expo config and Maven wrapper files tracked.
