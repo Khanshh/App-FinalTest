@@ -43,4 +43,4 @@ local.properties
 *.mobileprovision
 
 # Keep package-lock.json, .nvmrc, Expo config and Maven wrapper files tracked.
-docs/nhan/*
+/docs/nhan/*
