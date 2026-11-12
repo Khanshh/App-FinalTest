@@ -11,3 +11,4 @@ ios/
 *.jks
 *.keystore
 npm-debug.log*
+docs/nhan/*
